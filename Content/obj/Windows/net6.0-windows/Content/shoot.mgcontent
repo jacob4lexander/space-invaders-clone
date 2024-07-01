@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/PROJECTS/PROG 1442 PROJECT 2/JacobClaytonProject2/Content/shoot.mp3</SourceFile>
+  <SourceTime>2024-04-12T14:07:59.350181-04:00</SourceTime>
+  <DestFile>E:/PROJECTS/PROG 1442 PROJECT 2/JacobClaytonProject2/Content/bin/Windows/Content/shoot.xnb</DestFile>
+  <DestTime>2024-06-24T10:39:24.1636002-04:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

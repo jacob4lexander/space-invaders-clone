@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"E:/PROJECTS/PROG 1442 PROJECT 2/JacobClaytonProject2/Content/bullet.png","E:/PROJECTS/PROG 1442 PROJECT 2/JacobClaytonProject2/Content/bin/Windows/Content/bullet.xnb","TextureProcessor","Texture2DContent",233,2485,0.1050886
+"E:/PROJECTS/PROG 1442 PROJECT 2/JacobClaytonProject2/Content/enemy.png","E:/PROJECTS/PROG 1442 PROJECT 2/JacobClaytonProject2/Content/bin/Windows/Content/enemy.xnb","TextureProcessor","Texture2DContent",18750,2197,0.0056862
+"E:/PROJECTS/PROG 1442 PROJECT 2/JacobClaytonProject2/Content/explosion.wav","E:/PROJECTS/PROG 1442 PROJECT 2/JacobClaytonProject2/Content/bin/Windows/Content/explosion.xnb","SoundEffectProcessor","SoundEffectContent",376718,376641,0.2617608
+"E:/PROJECTS/PROG 1442 PROJECT 2/JacobClaytonProject2/Content/File.spritefont","E:/PROJECTS/PROG 1442 PROJECT 2/JacobClaytonProject2/Content/bin/Windows/Content/font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.0854972
+"E:/PROJECTS/PROG 1442 PROJECT 2/JacobClaytonProject2/Content/gameover.wav","E:/PROJECTS/PROG 1442 PROJECT 2/JacobClaytonProject2/Content/bin/Windows/Content/gameover.xnb","SoundEffectProcessor","SoundEffectContent",294730,294105,0.0867686
+"E:/PROJECTS/PROG 1442 PROJECT 2/JacobClaytonProject2/Content/player.png","E:/PROJECTS/PROG 1442 PROJECT 2/JacobClaytonProject2/Content/bin/Windows/Content/player.xnb","TextureProcessor","Texture2DContent",19031,6325,0.0040356
+"E:/PROJECTS/PROG 1442 PROJECT 2/JacobClaytonProject2/Content/shoot.mp3","E:/PROJECTS/PROG 1442 PROJECT 2/JacobClaytonProject2/Content/bin/Windows/Content/shoot.xnb","SoundEffectProcessor","SoundEffectContent",42720,205161,0.1016293
